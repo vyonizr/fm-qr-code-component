@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@font-face {
+  font-family: "Outfit";
+  font-weight: 400;
+  src: url("./public/fonts/outfit/Outfit-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Outfit";
+  font-weight: 700;
+  src: url("./public/fonts/outfit/Outfit-Bold.ttf");
+}
