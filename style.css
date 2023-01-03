@@ -475,6 +475,9 @@ video {
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+.mb-5 {
+  margin-bottom: 1.25rem;
+}
 .flex {
   display: flex;
 }
@@ -526,7 +529,7 @@ video {
 }
 .text-p {
   font-size: 15px;
-  line-height: 1.5rem;
+  line-height: 1.25rem;
 }
 .font-bold {
   font-weight: 700;
